@@ -1,0 +1,16 @@
+Rank,POS bigrams preferred by Baroque,Example
+1,NP-AQ (proper noun - adjective),Claudia_NP00000 bella_AQ0FS00
+2,NP-CS (proper noun - subordinating conjuction),Genil_NP00000 que_CS de las nieves se desata
+3,DA-NP (article - proper noun),con el_DA0MS0 «Denle_NP00000 a cenar poquito o nada»
+4,CC-NP (coordinating conjuction - proper noun),y_CC Omega_NP00000
+5,I-NP (interjection - proper noun),¡Oh_I Júpiter_NP00000
+6,NP-PR (proper noun - relative pronoun),""igual fuerza tenías siendo Aurora_NP00000, que_PR0CN00 ya como Sol tienes bien nacido""
+7,NP-DP (proper noun - possesive determiner),ilustró Febo_NP00000 su_DP3CSN vellón dorado
+8,NP-CC (proper noun - coordinating conjuction),""bajó Moisés_NP00000, y_CC, viendo en el becerro""
+9,NP-DA (proper noun - article),Alzó_VMIS3S0_Venus_NP00000 las_DA0FP0 faldas por un lado
+10,NC-PD (common noun - demostrative pronoun),""le dio a la brasa_NCFS000, tal_PD0CS00, que en diciembre""
+11,NP-NP (proper noun - proper noun),""en donde está en cenizas desatado Jasón_NP00000, Licurgo_NP00000, Bártulo y Orfeo""
+12,SP-NP (preposition - proper noun),en pago a_SP Venus_NP00000 hizo de oro
+13,DA-Z (article - number),o ya de los_DA0MP0 dos_Z soles desatada
+14,RG-NP (adverb - proper noun),que en poco mármol mucho_RG Fénix_NP00000 cabe
+15,CS-AQ (subordinating conjuction - adjective),""Si_CS ociosa_AQ0FS00 no asistió naturaleza""
