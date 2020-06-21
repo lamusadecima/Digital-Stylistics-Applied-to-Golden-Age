@@ -1,0 +1,16 @@
+Rank,POS bigrams preferred by Renaissance,Example
+1,SP-PD (preposition - demostrative pronoun),y en_SP aquella_PD que declara  el concepto de el alma
+2,VM-PT (main verb - interrogative pronoun),Con ansia extrema de mirar_VM qué_PT tiene vuestro pecho escondido
+3,PP-DP (personal pronoun - possesive determiner),mostrando en mí_PP su_DP vil naturaleza
+4,CS-PD (subordinating conjuction - demostrative pronoun),y si_CS esto_PD lo es
+5,PD-VM (demostrative pronoun - main verb),y esto_PD00S00 siente_VMIP3S0
+6,RG-VA (adverb - auxiliary verb),a ver un día a quien fuera mejor nunca_RG haber_VAN0000 visto
+7,PT-RG (interrogative pronoun - adverb),¡Oh cuánto_PT0MS00 bien_RG se acaba en solo un día!
+8,PP-RG (personal pronoun - adverb),porque yo_PP1CSN0 luego_RG
+9,PP-CC (personal pronoun - coordinating conjuction),sequedad y la aspereza dieron mal fruto de ellas_PP3FP00 y_CC mi suerte
+10,VS-PP (semiauxiliary verb - personal pronoun),seréis_VSIF2P0 vos_PP2CS0P solo eterno y sin segundo
+11,SP-RN (preposition - negative adverb),por_SP no_RN hacer mudanza en su costumbre
+12,SP-VS (preposition - semiauxiliary verb),prívame éste de sí por_SP ser_VSN0000 tan mío
+13,SP-DT (preposition - interrogative determiner),Quejosos mil leales amadores de ver con_SP qué_DT0CN0 crueldad les trata el tiempo
+14,AP-SP (possesive adjective - preposition),así en su padecer el alma mía_AP0FS1S con_SP la tarde del bien es tan gozosa
+15,VS-CS (semiauxiliary verb - subordinating conjuction),El mal es_VSIP3S0 que_CS me quedan los cuidados
