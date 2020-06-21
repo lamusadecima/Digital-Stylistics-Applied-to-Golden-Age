@@ -1,0 +1,16 @@
+Rank,POS trigrams preferred by Baroque,Example
+1,VM-DA-NP (main verb - article - proper noun),
+2,VM-SP-NP (main verb - preposition - proper noun),la esperanza alimentan_VMIP3P0 de_SP Fileno_NP00000
+3,SP-DA-NP (preposition - article - proper noun), con_SP el_DA0MS0 «Denle_NP00000 a cenar poquito o nada»
+4,NC-NC-AQ (common noun - common noun - adjective),Cuanto en tu camarín_NCMS000 pincel_NCMS000 valiente_AQ0CS00
+5,NC-SP-NP (common noun - preposition - preposition),y la mejor ciudad_NCFS000 de_SP Francia_NP00000
+6,CC-NC-SP (coordinating conjuction - common noun - preposition),y_CC leños_NCMP000 de_SP la escala de Jacob
+7,SP-NP-CC (preposition - proper noun - coordinating conjuction),puedes arder en púrpura de_SP Tiro_NP00000 y_CC no alcanzar descanso verdadero
+8,DA-NP-VM (article - proper noun - main verb),
+9,NP-DA-NC (proper noun - article - common noun),le agregaron a Lope_NP00000 los_DA0MP0 secuaces_NCFP000
+10,NC-VS-NC (common noun - semiauxiliary verb - common noun),de un templo_NCMS000 son_VSIP3P0 faroles_NCMP000
+11,NP-NC-SP (proper noun - common noun - preposition),Félix_NP00000 amante_NCCS000 con_SP tan ruin suceso
+12,NC-AQ-SP (common noun - adjective - preposition),oh esplendor_NCMS000 generoso_AQ0MS00 de_SP señores
+13,CC-NC-AQ (coordinating conjuction - common noun - adjective),de blanco nácar y_CC alabastro_NCMS000 duro_AQ0MS00 fue por divina mano fabricado
+14,NP-DP-NC (proper noun - possesive determiner - common noun),como a Marte_NP00000 tu_DP2CSS grandeza_NCFS000
+15,NP-SP-DA (proper noun - preposition - article),y de heredar a Pedro_NP00000 en_SP las_DA0FP0 dos llaves
