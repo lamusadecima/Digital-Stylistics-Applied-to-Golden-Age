@@ -10,4 +10,4 @@ This section includes:
 ## Citing
 If you find some of the resources here useful and plan on using it, please cite it in this way:
 
-Hernández-Lorenzo, Laura, "Digital Stylistics Applied to Golden Age Spanish Poetry: Is Fernando de Herrera Really a Transitional Poet between Renaissance and Baroque?"
+Hernández-Lorenzo, Laura (forthcoming). "Digital Stylistics Applied to Golden Age Spanish Poetry: Is Fernando de Herrera Really a Transitional Poet between Renaissance and Baroque?"
