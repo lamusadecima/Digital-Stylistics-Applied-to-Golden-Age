@@ -1,4 +1,4 @@
-# Digital Stylistics Applied to Golden Age Spanish Poetry
+# Digital Stylistics Applied to Golden Age Spanish Poetry: Appendix
 
 Complementary materials for my paper "Digital Stylistics Applied to Golden Age Spanish Poetry: Is Fernando de Herrera Really a Transitional Poet between Renaissance and Baroque?"
 
