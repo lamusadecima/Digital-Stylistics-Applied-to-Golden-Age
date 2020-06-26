@@ -18,21 +18,6 @@ my.text.print = unlist(tokenized.3POS.text)
 write(my.text.print, file = "P2_3grams.txt")
 
 
-###########
-# Rolling #
-###########
-
-setwd("Dropbox/Würzburg/untagged_corpus/rolling")
-
-#rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=100, training.set.sampling = "normal.sampling", slice.size = 1000, slice.overlap = 500)
-rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=1000, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 1000)
-#rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=100, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 2500)
-#rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=100, training.set.sampling = "normal.sampling", slice.size = 5000, slice.overlap = 4500)
-rolling.classify(write.png.file = TRUE, classification.method = "nsc", mfw=1000, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 2500)
-#results = rolling.classify(write.png.file = TRUE, classification.method = "delta", mfw=1000)
-rolling.classify(write.png.file = TRUE, classification.method = "delta", distance = "wurzburg", mfw=1000, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 1000)
-
-
 ################
 # Zeta (words) #
 ################
@@ -70,17 +55,3 @@ write(my.text.print, file = "SorJuana_3POSd-2.txt")
 
 setwd("Dropbox/Würzburg/tagged_corpus/zeta")
 oppose()
-
-#################
-# Rolling (POS) #
-#################
-
-setwd("Dropbox/Würzburg/tagged_corpus/rolling")
-
-#rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=100, training.set.sampling = "normal.sampling", slice.size = 1000, slice.overlap = 500)
-rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=500, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 1000)
-#rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=100, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 2500)
-#rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=100, training.set.sampling = "normal.sampling", slice.size = 5000, slice.overlap = 4500)
-rolling.classify(write.png.file = TRUE, classification.method = "nsc", mfw=500, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 2500)
-#results = rolling.classify(write.png.file = TRUE, classification.method = "delta", mfw=1000)
-rolling.classify(write.png.file = TRUE, classification.method = "delta", distance = "wurzburg", mfw=500, training.set.sampling = "normal.sampling", slice.size = 3000, slice.overlap = 1000)
