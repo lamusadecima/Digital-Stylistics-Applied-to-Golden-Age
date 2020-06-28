@@ -1,12 +1,12 @@
 Rank,POS trigrams preferred by Baroque,Example
-1,VM-DA-NP (main verb - article - proper noun),
+1,VM-DA-NP (main verb - article - proper noun),gime_VMIP3S0 el_DA0MS0 Ponto_NP00000
 2,VM-SP-NP (main verb - preposition - proper noun),la esperanza alimentan_VMIP3P0 de_SP Fileno_NP00000
 3,SP-DA-NP (preposition - article - proper noun), con_SP el_DA0MS0 «Denle_NP00000 a cenar poquito o nada»
 4,NC-NC-AQ (common noun - common noun - adjective),Cuanto en tu camarín_NCMS000 pincel_NCMS000 valiente_AQ0CS00
 5,NC-SP-NP (common noun - preposition - preposition),y la mejor ciudad_NCFS000 de_SP Francia_NP00000
 6,CC-NC-SP (coordinating conjuction - common noun - preposition),y_CC leños_NCMP000 de_SP la escala de Jacob
 7,SP-NP-CC (preposition - proper noun - coordinating conjuction),puedes arder en púrpura de_SP Tiro_NP00000 y_CC no alcanzar descanso verdadero
-8,DA-NP-VM (article - proper noun - main verb),
+8,DA-NP-VM (article - proper noun - main verb), cuanto el_DA0MS0 Señor_NP00000 atiende_VMIP3S0
 9,NP-DA-NC (proper noun - article - common noun),le agregaron a Lope_NP00000 los_DA0MP0 secuaces_NCFP000
 10,NC-VS-NC (common noun - semiauxiliary verb - common noun),de un templo_NCMS000 son_VSIP3P0 faroles_NCMP000
 11,NP-NC-SP (proper noun - common noun - preposition),Félix_NP00000 amante_NCCS000 con_SP tan ruin suceso
