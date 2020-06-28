@@ -1,7 +1,7 @@
 Rank,POS bigrams preferred by Baroque,Example
 1,NP-AQ (proper noun - adjective),Claudia_NP00000 bella_AQ0FS00
 2,NP-CS (proper noun - subordinating conjuction),Genil_NP00000 que_CS de las nieves se desata
-3,DA-NP (article - proper noun),con el_DA0MS0 «Denle_NP00000 a cenar poquito o nada»
+3,DA-NP (article - proper noun),que dieran a los DA0MP0 Alpes NP00000 calentura
 4,CC-NP (coordinating conjuction - proper noun),y_CC Omega_NP00000
 5,I-NP (interjection - proper noun),¡Oh_I Júpiter_NP00000
 6,NP-PR (proper noun - relative pronoun),"igual fuerza tenías siendo Aurora_NP00000, que_PR0CN00 ya como Sol tienes bien nacido"
