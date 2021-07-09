@@ -1,5 +1,7 @@
 # Digital Stylistics Applied to Golden Age Spanish Poetry: Appendix
 
+[![DOI](https://zenodo.org/badge/273690748.svg)](https://zenodo.org/badge/latestdoi/273690748)
+
 Complementary materials for my paper "Digital Stylistics Applied to Golden Age Spanish Poetry: Is Fernando de Herrera Really a Transitional Poet between Renaissance and Baroque?", presented at Digital Stylistics in Romance Studies and Beyond conference, organized by CLiGS group and held at Würzburg University from February 27th to March 2nd.
 
 They include:
