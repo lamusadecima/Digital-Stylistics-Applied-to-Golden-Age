@@ -1,1809 +1,1809 @@
-cs pp nc
-pp nc sp
-nc sp vm
-sp vm dp
-vm dp nc
-dp nc cc
-nc cc sp
-cc sp vm
-sp vm da
-vm da nc
-da nc sp
-nc sp nc
-sp nc pp
-nc pp va
-pp va vm
-va vm vm
-vm vm cs
-vm cs sp
-cs sp nc
-sp nc vm
-nc vm vm
-vm vm pr
-vm pr sp
-pr sp aq
-sp aq nc
-aq nc vm
-nc vm va
-vm va vm
-va vm cc
-vm cc cs
-cc cs sp
-cs sp da
-sp da nc
-da nc vm
-nc vm vm
-vm vm sp
-vm sp rg
-sp rg rg
-rg rg rn
-rg rn vm
-rn vm sp
-vm sp nc
-sp nc va
-nc va vm
-va vm vm
-vm vm cs
-vm cs pp
-cs pp vm
-pp vm cc
-vm cc rg
-cc rg vm
-rg vm pp
-vm pp nc
-pp nc vm
-nc vm vm
-vm vm pp
-vm pp dp
-pp dp nc
-dp nc pp
-nc pp vm
-pp vm cs
-vm cs pp
-cs pp vm
-pp vm sp
-vm sp nc
-sp nc sp
-nc sp pr
-sp pr vm
-pr vm vm
-vm vm cc
-vm cc nc
-cc nc cs
-nc cs pp
-cs pp vm
-pp vm cc
-vm cc rg
-cc rg vm
-rg vm vm
-vm vm cs
-vm cs cs
-cs cs dp
-cs dp nc
-dp nc vm
-nc vm nc
-vm nc da
-nc da ap
-da ap pr
-ap pr rn
-pr rn vs
-rn vs rg
-vs rg sp
-rg sp dp
-sp dp nc
-dp nc vm
-nc vm pt
-vm pt vm
-pt vm cc
-vm cc nc
-cc nc sp
-nc sp nc
-sp nc sp
-nc sp dp
-sp dp nc
-dp nc va
-nc va vm
-va vm nc
-vm nc vm
-nc vm cs
-vm cs vm
-cs vm sp
-vm sp vm
-sp vm rg
-vm rg vm
-rg vm pr
-vm pr rg
-pr rg vm
-rg vm sp
-vm sp nc
-sp nc dp
-nc dp nc
-dp nc cs
-nc cs nc
-cs nc pp
-nc pp vs
-pp vs rg
-vs rg vm
-rg vm dp
-vm dp nc
-dp nc rn
-nc rn vm
-rn vm sp
-vm sp pt
-sp pt p
-pt p va
-p va vm
-va vm cs
-vm cs rn
-cs rn vs
-rn vs sp
-vs sp va
-sp va vs
-va vs pp
-vs pp vm
-pp vm sp
-vm sp cs
-sp cs rg
-cs rg sp
-rg sp pp
-sp pp vs
-pp vs vm
-vs vm pt
-vm pt vm
-pt vm di
-vm di nc
-di nc sp
-nc sp di
-sp di vm
-di vm dp
-vm dp nc
-dp nc va
-nc va vs
-va vs vm
-vs vm pr
-vm pr da
-pr da nc
-da nc cc
-nc cc da
-cc da nc
-da nc vm
-nc vm rg
-vm rg nc
-rg nc sp
-nc sp pp
-sp pp cc
-pp cc dp
-cc dp nc
-dp nc vm
-nc vm da
-vm da pr
-da pr sp
-pr sp pp
-sp pp vm
-pp vm vm
-vm vm rn
-vm rn pp
-rn pp vm
-pp vm rg
-vm rg sp
-rg sp pp
-sp pp sp
-pp sp dp
-sp dp nc
-dp nc rg
-nc rg pp
-rg pp vm
-pp vm nc
-vm nc sp
-nc sp dp
-sp dp nc
-dp nc da
-nc da nc
-da nc sp
-nc sp nc
-sp nc cc
-nc cc nc
-cc nc va
-nc va vm
-va vm sp
-vm sp rg
-sp rg rg
-rg rg aq
-rg aq pp
-aq pp vm
-pp vm cc
-vm cc vm
-cc vm vm
-vm vm di
-vm di nc
-di nc nc
-nc nc nc
-nc nc nc
-nc nc va
-nc va vm
-va vm rg
-vm rg sp
-rg sp vm
-sp vm vm
-vm vm nc
-vm nc vm
-nc vm nc
-vm nc sp
-nc sp dp
-sp dp nc
-dp nc cc
-nc cc da
-cc da pr
-da pr rg
-pr rg aq
-rg aq vm
-aq vm vs
-vm vs dd
-vs dd nc
-dd nc pr
-nc pr vm
-pr vm da
-vm da nc
-da nc cc
-nc cc da
-cc da nc
-da nc sp
-nc sp di
-sp di nc
-di nc vm
-nc vm vm
-vm vm sp
-vm sp nc
-sp nc pp
-nc pp nc
-pp nc cc
-nc cc nc
-cc nc cs
-nc cs rg
-cs rg vm
-rg vm sp
-vm sp nc
-sp nc cc
-nc cc sp
-cc sp rn
-sp rn nc
-rn nc rg
-nc rg sp
-rg sp vm
-sp vm cs
-vm cs rn
-cs rn vs
-rn vs vm
-vs vm di
-vm di nc
-di nc vm
-nc vm cc
-vm cc cs
-cc cs pd
-cs pd pp
-pd pp vs
-pp vs rg
-vs rg vm
-rg vm aq
-vm aq di
-aq di nc
-di nc p
-nc p vm
-p vm dp
-vm dp nc
-dp nc rg
-nc rg vm
-rg vm sp
-vm sp vm
-sp vm vm
-vm vm nc
-vm nc sp
-nc sp vm
-sp vm cs
-vm cs vm
-cs vm sp
-vm sp rg
-sp rg dp
-rg dp nc
-dp nc aq
-nc aq da
-aq da nc
-da nc sp
-nc sp da
-sp da nc
-da nc pt
-nc pt vm
-pt vm rg
-vm rg aq
-rg aq nc
-aq nc sp
-nc sp da
-sp da nc
-da nc sp
-nc sp da
-sp da nc
-da nc i
-nc i nc
-i nc vm
-nc vm vm
-vm vm sp
-vm sp da
-sp da nc
-da nc sp
-nc sp dp
-sp dp nc
-dp nc pr
-nc pr sp
-pr sp nc
-sp nc vm
-nc vm vm
-vm vm nc
-vm nc pp
-nc pp aq
-pp aq vm
-aq vm sp
-vm sp nc
-sp nc vm
-nc vm di
-vm di nc
-di nc cs
-nc cs pi
-cs pi rn
-pi rn vm
-rn vm sp
-vm sp z
-sp z nc
-z nc rg
-nc rg aq
-rg aq np
-aq np nc
-np nc rn
-nc rn vm
-rn vm cc
-vm cc nc
-cc nc nc
-nc nc sp
-nc sp vm
-sp vm sp
-vm sp nc
-sp nc cs
-nc cs vm
-cs vm aq
-vm aq nc
-aq nc cc
-nc cc nc
-cc nc sp
-nc sp nc
-sp nc cc
-nc cc nc
-cc nc np
-nc np vm
-np vm sp
-vm sp dp
-sp dp nc
-dp nc dp
-nc dp nc
-dp nc cc
-nc cc pr
-cc pr pp
-pr pp vm
-pp vm sp
-vm sp pp
-sp pp vm
-pp vm pp
-vm pp aq
-pp aq pp
-aq pp vm
-pp vm pp
-vm pp pp
-pp pp vm
-pp vm rg
-vm rg aq
-rg aq pr
-aq pr rg
-pr rg sp
-rg sp pp
-sp pp pp
-pp pp vm
-pp vm sp
-vm sp pd
-sp pd sp
-pd sp pd
-sp pd vm
-pd vm cc
-vm cc vm
-cc vm rg
-vm rg vm
-rg vm pr
-vm pr cc
-pr cc rn
-cc rn vm
-rn vm sp
-vm sp pp
-sp pp rg
-pp rg sp
-rg sp pp
-sp pp vm
-pp vm sp
-vm sp rg
-sp rg rg
-rg rg da
-rg da pr
-da pr rn
-pr rn vm
-rn vm vm
-vm vm vm
-vm vm rg
-vm rg da
-rg da nc
-da nc sp
-nc sp nc
-sp nc pp
-nc pp rn
-pp rn vm
-rn vm cc
-vm cc sp
-cc sp nc
-sp nc dp
-nc dp nc
-dp nc pp
-nc pp va
-pp va vm
-va vm sp
-vm sp dp
-sp dp nc
-dp nc sp
-nc sp nc
-sp nc sp
-nc sp da
-sp da nc
-da nc aq
-nc aq pp
-aq pp vm
-pp vm rg
-vm rg vm
-rg vm vm
-vm vm pp
-vm pp nc
-pp nc sp
-nc sp pp
-sp pp vm
-pp vm sp
-vm sp pp
-sp pp vm
-pp vm da
-vm da nc
-da nc sp
-nc sp pp
-sp pp vm
-pp vm sp
-vm sp vm
-sp vm cc
-vm cc sp
-cc sp pp
-sp pp vm
-pp vm sp
-vm sp aq
-sp aq nc
-aq nc va
-nc va vm
-va vm sp
-vm sp nc
-sp nc pr
-nc pr sp
-pr sp nc
-sp nc rn
-nc rn pp
-rn pp vm
-pp vm cc
-vm cc cs
-cc cs sp
-cs sp nc
-sp nc sp
-nc sp vm
-sp vm di
-vm di nc
-di nc vm
-nc vm rg
-vm rg sp
-rg sp da
-sp da nc
-da nc vs
-nc vs vm
-vs vm cc
-vm cc pd
-cc pd vm
-pd vm cs
-vm cs sp
-cs sp da
-sp da nc
-da nc sp
-nc sp da
-sp da nc
-da nc vm
-nc vm sp
-vm sp dp
-sp dp vm
-dp vm nc
-vm nc aq
-nc aq cc
-aq cc vm
-cc vm da
-vm da aq
-da aq cc
-aq cc da
-cc da aq
-da aq vm
-aq vm cc
-vm cc sp
-cc sp nc
-sp nc aq
-nc aq cc
-aq cc sp
-cc sp dp
-sp dp nc
-dp nc sp
-nc sp di
-sp di nc
-di nc da
-nc da aq
-da aq nc
-aq nc ap
-nc ap cc
-ap cc da
-cc da vm
-da vm nc
-vm nc sp
-nc sp dp
-sp dp nc
-dp nc sp
-nc sp dp
-sp dp ao
-dp ao nc
-ao nc cc
-nc cc sp
-cc sp dp
-sp dp nc
-dp nc dp
-nc dp nc
-dp nc sp
-nc sp pr
-sp pr rg
-pr rg rn
-rg rn vm
-rn vm da
-vm da aq
-da aq nc
-aq nc nc
-nc nc sp
-nc sp di
-sp di nc
-di nc pp
-nc pp vm
-pp vm vm
-vm vm sp
-vm sp dp
-sp dp nc
-dp nc rn
-nc rn vm
-rn vm rg
-vm rg pr
-rg pr vm
-pr vm rg
-vm rg vm
-rg vm vm
-vm vm np
-vm np da
-np da pr
-da pr vm
-pr vm sp
-vm sp pp
-sp pp vm
-pp vm vm
-vm vm nc
-vm nc nc
-nc nc rg
-nc rg vm
-rg vm sp
-vm sp vm
-sp vm sp
-vm sp da
-sp da pr
-da pr va
-pr va vm
-va vm dp
-vm dp nc
-dp nc cc
-nc cc dp
-cc dp nc
-dp nc va
-nc va vm
-va vm sp
-vm sp dp
-sp dp vm
-dp vm nc
-vm nc cc
-nc cc vm
-cc vm cs
-vm cs vm
-cs vm sp
-vm sp pr
-sp pr vm
-pr vm rg
-vm rg vm
-rg vm aq
-vm aq sp
-aq sp da
-sp da nc
-da nc sp
-nc sp pr
-sp pr p
-pr p nc
-p nc pp
-nc pp aq
-pp aq nc
-aq nc rg
-nc rg rg
-rg rg vm
-rg vm sp
-vm sp nc
-sp nc ap
-nc ap cc
-ap cc sp
-cc sp dp
-sp dp nc
-dp nc sp
-nc sp di
-sp di dd
-di dd nc
-dd nc cs
-nc cs aq
-cs aq cc
-aq cc sp
-cc sp da
-sp da pr
-da pr vm
-pr vm rn
-vm rn vm
-rn vm vm
-vm vm cc
-vm cc sp
-cc sp pd
-sp pd rn
-pd rn vm
-rn vm sp
-vm sp da
-sp da nc
-da nc pr
-nc pr rn
-pr rn vs
-rn vs cs
-vs cs da
-cs da pi
-da pi cc
-pi cc sp
-cc sp dp
-sp dp nc
-dp nc sp
-nc sp dd
-sp dd nc
-dd nc aq
-nc aq cc
-aq cc aq
-cc aq vm
-aq vm nc
-vm nc aq
-nc aq cc
-aq cc vm
-cc vm cc
-vm cc vs
-cc vs sp
-vs sp dp
-sp dp nc
-dp nc vm
-nc vm pp
-vm pp vm
-pp vm sp
-vm sp pr
-sp pr da
-pr da nc
-da nc p
-nc p vm
-p vm np
-vm np sp
-np sp da
-sp da nc
-da nc rg
-nc rg sp
-rg sp da
-sp da ap
-da ap pr
-ap pr sp
-pr sp dd
-sp dd nc
-dd nc vm
-nc vm vm
-vm vm sp
-vm sp pp
-sp pp cs
-pp cs nc
-cs nc vm
-nc vm sp
-vm sp dd
-sp dd nc
-dd nc pr
-nc pr vm
-pr vm aq
-vm aq aq
-aq aq sp
-aq sp da
-sp da nc
-da nc pp
-nc pp vm
-pp vm dp
-vm dp nc
-dp nc vm
-nc vm cs
-vm cs pp
-cs pp vm
-pp vm p
-vm p vm
-p vm cc
-vm cc p
-cc p vm
-p vm sp
-vm sp nc
-sp nc cc
-nc cc rn
-cc rn vm
-rn vm aq
-vm aq da
-aq da nc
-da nc cs
-nc cs da
-cs da ap
-da ap vm
-ap vm vm
-vm vm vm
-vm vm sp
-vm sp vm
-sp vm nc
-vm nc rn
-nc rn vm
-rn vm nc
-vm nc nc
-nc nc ap
-nc ap cs
-ap cs pp
-cs pp sp
-pp sp pp
-sp pp vm
-pp vm sp
-vm sp dd
-sp dd nc
-dd nc nc
-nc nc cc
-nc cc rn
-cc rn pp
-rn pp vm
-pp vm vm
-vm vm cs
-vm cs vm
-cs vm sp
-vm sp da
-sp da pr
-da pr pp
-pr pp vm
-pp vm cc
-vm cc sp
-cc sp da
-sp da nc
-da nc sp
-nc sp pr
-sp pr vm
-pr vm sp
-vm sp vs
-sp vs aq
-vs aq sp
-aq sp pd
-sp pd rg
-pd rg vs
-rg vs di
-vs di nc
-di nc pr
-nc pr vs
-pr vs vm
-vs vm cs
-vm cs cs
-cs cs sp
-cs sp nc
-sp nc nc
-nc nc pp
-nc pp vm
-pp vm rg
-vm rg rg
-rg rg sp
-rg sp pp
-sp pp vm
-pp vm cc
-vm cc rg
-cc rg vm
-rg vm sp
-vm sp da
-sp da pr
-da pr vm
-pr vm aq
-vm aq sp
-aq sp dd
-sp dd nc
-dd nc dp
-nc dp nc
-dp nc vm
-nc vm sp
-vm sp dp
-sp dp nc
-dp nc cc
-nc cc sp
-cc sp nc
-sp nc rn
-nc rn vm
-rn vm rg
-vm rg pt
-rg pt vm
-pt vm sp
-vm sp aq
-sp aq nc
-aq nc rg
-nc rg sp
-rg sp pp
-sp pp pp
-pp pp vm
-pp vm cc
-vm cc vm
-cc vm sp
-vm sp dd
-sp dd nc
-dd nc vm
-nc vm nc
-vm nc cc
-nc cc nc
-cc nc pr
-nc pr rg
-pr rg p
-rg p vm
-p vm sp
-vm sp dp
-sp dp nc
-dp nc i
-nc i aq
-i aq nc
-aq nc sp
-nc sp dp
-sp dp rg
-dp rg vm
-rg vm aq
-vm aq cc
-aq cc aq
-cc aq cs
-aq cs np
-cs np vm
-np vm np
-vm np vm
-np vm sp
-vm sp da
-sp da nc
-da nc ap
-nc ap cc
-ap cc sp
-cc sp pp
-sp pp sp
-pp sp dp
-sp dp nc
-dp nc vm
-nc vm pt
-vm pt pp
-pt pp vm
-pp vm cs
-vm cs sp
-cs sp da
-sp da vm
-da vm nc
-vm nc sp
-nc sp rg
-sp rg rg
-rg rg sp
-rg sp pp
-sp pp pp
-pp pp nc
-pp nc pr
-nc pr pp
-pr pp nc
-pp nc sp
-nc sp vs
-sp vs sp
-vs sp di
-sp di nc
-di nc sp
-nc sp rg
-sp rg aq
-rg aq nc
-aq nc vm
-nc vm cs
-vm cs sp
-cs sp di
-sp di nc
-di nc aq
-nc aq pp
-aq pp nc
-pp nc di
-nc di da
-di da nc
-da nc pr
-nc pr sp
-pr sp nc
-sp nc pp
-nc pp vm
-pp vm nc
-vm nc aq
-nc aq da
-aq da nc
-da nc pr
-nc pr pp
-pr pp nc
-pp nc cs
-nc cs rn
-cs rn vm
-rn vm cs
-vm cs pp
-cs pp nc
-pp nc sp
-nc sp di
-sp di nc
-di nc cs
-nc cs nc
-cs nc nc
-nc nc vm
-nc vm sp
-vm sp nc
-sp nc aq
-nc aq aq
-aq aq nc
-aq nc pr
-nc pr sp
-pr sp da
-sp da aq
-da aq nc
-aq nc aq
-nc aq vm
-aq vm sp
-vm sp da
-sp da nc
-da nc sp
-nc sp aq
-sp aq nc
-aq nc vm
-nc vm cc
-vm cc sp
-cc sp nc
-sp nc sp
-nc sp nc
-sp nc vm
-nc vm nc
-vm nc va
-nc va vm
-va vm vm
-vm vm cc
-vm cc vm
-cc vm da
-vm da nc
-da nc aq
-nc aq nc
-aq nc di
-nc di sp
-di sp di
-sp di vm
-di vm vm
-vm vm da
-vm da nc
-da nc cc
-nc cc da
-cc da nc
-da nc vm
-nc vm di
-vm di nc
-di nc da
-nc da nc
-da nc vm
-nc vm dp
-vm dp aq
-dp aq nc
-aq nc sp
-nc sp nc
-sp nc cc
-nc cc rn
-cc rn pp
-rn pp vm
-pp vm rg
-vm rg cs
-rg cs vm
-cs vm cs
-vm cs cc
-cs cc rn
-cc rn vm
-rn vm sp
-vm sp nc
-sp nc nc
-nc nc cc
-nc cc vm
-cc vm sp
-vm sp nc
-sp nc rg
-nc rg vm
-rg vm vm
-vm vm rg
-vm rg rg
-rg rg nc
-rg nc cs
-nc cs sp
-cs sp vm
-sp vm dd
-vm dd nc
-dd nc aq
-nc aq aq
-aq aq aq
-aq aq aq
-aq aq cc
-aq cc vm
-cc vm sp
-vm sp di
-sp di nc
-di nc rg
-nc rg aq
-rg aq pr
-aq pr vs
-pr vs nc
-vs nc sp
-nc sp vm
-sp vm pp
-vm pp da
-pp da pr
-da pr rn
-pr rn vm
-rn vm rn
-vm rn pp
-rn pp vm
-pp vm nc
-vm nc pr
-nc pr pp
-pr pp vm
-pp vm cc
-vm cc rg
-cc rg vm
-rg vm cc
-vm cc rg
-cc rg aq
-rg aq sp
-aq sp di
-sp di nc
-di nc pr
-nc pr rg
-pr rg vm
-rg vm vm
-vm vm da
-vm da nc
-da nc sp
-nc sp pp
-sp pp pr
-pp pr pp
-pr pp vm
-pp vm pt
-vm pt pp
-pt pp vm
-pp vm sp
-vm sp vm
-sp vm vm
-vm vm da
-vm da nc
-da nc sp
-nc sp pd
-sp pd cs
-pd cs sp
-cs sp da
-sp da nc
-da nc vm
-nc vm vm
-vm vm nc
-vm nc cc
-nc cc nc
-cc nc sp
-nc sp da
-sp da nc
-da nc va
-nc va vm
-va vm cc
-vm cc da
-cc da sp
-da sp da
-sp da pr
-da pr dp
-pr dp nc
-dp nc cc
-nc cc dp
-cc dp nc
-dp nc vm
-nc vm sp
-vm sp dd
-sp dd nc
-dd nc vm
-nc vm rg
-vm rg sp
-rg sp da
-sp da nc
-da nc vm
-nc vm sp
-vm sp np
-sp np rg
-np rg da
-rg da nc
-da nc pp
-nc pp vm
-pp vm cc
-vm cc sp
-cc sp aq
-sp aq nc
-aq nc vm
-nc vm p
-vm p vm
-p vm sp
-vm sp aq
-sp aq nc
-aq nc vm
-nc vm cs
-vm cs p
-cs p vm
-p vm da
-vm da nc
-da nc pr
-nc pr sp
-pr sp da
-sp da nc
-da nc vm
-nc vm sp
-vm sp aq
-sp aq nc
-aq nc p
-nc p vm
-p vm da
-vm da aq
-da aq nc
-aq nc pr
-nc pr rg
-pr rg vm
-rg vm vm
-vm vm da
-vm da aq
-da aq nc
-aq nc sp
-nc sp nc
-sp nc p
-nc p vm
-p vm cc
-vm cc sp
-cc sp vm
-sp vm nc
-vm nc p
-nc p vm
-p vm pd
-vm pd pr
-pd pr vs
-pr vs da
-vs da nc
-da nc sp
-nc sp dd
-sp dd nc
-dd nc sp
-nc sp vm
-sp vm vm
-vm vm vm
-vm vm da
-vm da nc
-da nc pr
-nc pr sp
-pr sp nc
-sp nc vm
-nc vm i
-vm i aq
-i aq nc
-aq nc i
-nc i aq
-i aq nc
-aq nc cs
-nc cs sp
-cs sp nc
-sp nc vm
-nc vm di
-vm di nc
-di nc da
-nc da nc
-da nc cc
-nc cc da
-cc da nc
-da nc sp
-nc sp pr
-sp pr vm
-pr vm cs
-vm cs da
-cs da aq
-da aq nc
-aq nc pr
-nc pr da
-pr da aq
-da aq nc
-aq nc pp
-nc pp vm
-pp vm sp
-vm sp nc
-sp nc vm
-nc vm di
-vm di nc
-di nc sp
-nc sp da
-sp da pr
-da pr vm
-pr vm vm
-vm vm cs
-vm cs vm
-cs vm sp
-vm sp vm
-sp vm da
-vm da nc
-da nc pr
-nc pr vm
-pr vm cc
-vm cc dd
-cc dd aq
-dd aq nc
-aq nc rn
-nc rn pp
-rn pp vm
-pp vm cs
-vm cs vm
-cs vm da
-vm da nc
-da nc pr
-nc pr vm
-pr vm da
-vm da pr
-da pr pp
-pr pp vm
-pp vm vm
-vm vm vm
-vm vm vm
-vm vm cc
-vm cc vm
-cc vm da
-vm da nc
-da nc cc
-nc cc vm
-cc vm da
-vm da nc
-da nc rg
-nc rg sp
-rg sp dp
-sp dp nc
-dp nc cc
-nc cc aq
-cc aq nc
-aq nc pr
-nc pr sp
-pr sp dp
-sp dp nc
-dp nc pp
-nc pp pp
-pp pp vm
-pp vm pp
-vm pp vm
-pp vm rg
-vm rg dd
-rg dd aq
-dd aq nc
-aq nc cc
-nc cc aq
-cc aq cc
-aq cc vm
-cc vm di
-vm di nc
-di nc rg
-nc rg pr
-rg pr rg
-pr rg vm
-rg vm pp
-vm pp vm
-pp vm vm
-vm vm dp
-vm dp nc
-dp nc cc
-nc cc rg
-cc rg da
-rg da ap
-da ap cs
-ap cs nc
-cs nc cc
-nc cc nc
-cc nc vm
-nc vm rg
-vm rg cs
-rg cs da
-cs da nc
-da nc vm
-nc vm sp
-vm sp da
-sp da nc
-da nc cc
-nc cc sp
-cc sp da
-sp da di
-da di nc
-di nc cc
-nc cc aq
-cc aq da
-aq da nc
-da nc vm
-nc vm sp
-vm sp dp
-sp dp nc
-dp nc cs
-nc cs vm
-cs vm sp
-vm sp vm
-sp vm dp
-vm dp nc
-dp nc da
-nc da aq
-da aq nc
-aq nc cc
-nc cc nc
-cc nc aq
-nc aq cs
-aq cs sp
-cs sp nc
-sp nc sp
-nc sp rg
-sp rg nc
-rg nc cs
-nc cs da
-cs da ap
-da ap vm
-ap vm sp
-vm sp da
-sp da nc
-da nc sp
-nc sp da
-sp da nc
-da nc sp
-nc sp pt
-sp pt rn
-pt rn vm
-rn vm dp
-vm dp aq
-dp aq nc
-aq nc sp
-nc sp nc
-sp nc cc
-nc cc nc
-cc nc vm
-nc vm di
-vm di nc
-di nc pp
-nc pp vm
-pp vm sp
-vm sp rg
-sp rg nc
-rg nc nc
-nc nc vs
-nc vs vm
-vs vm da
-vm da nc
-da nc sp
-nc sp da
-sp da pr
-da pr p
-pr p vm
-p vm sp
-vm sp vm
-sp vm cs
-vm cs da
-cs da sp
-da sp da
-sp da pr
-da pr vm
-pr vm cc
-vm cc vm
-cc vm di
-vm di nc
-di nc rn
-nc rn da
-rn da aq
-da aq nc
-aq nc aq
-nc aq sp
-aq sp sp
-sp sp nc
-sp nc sp
-nc sp da
-sp da vm
-da vm nc
-vm nc cc
-nc cc sp
-cc sp da
-sp da vm
-da vm nc
-vm nc sp
-nc sp vm
-sp vm da
-vm da nc
-da nc cc
-nc cc nc
-cc nc aq
-nc aq rn
-aq rn da
-rn da nc
-da nc aq
-nc aq cc
-aq cc dd
-cc dd aq
-dd aq nc
-aq nc vm
-nc vm sp
-vm sp pd
-sp pd cs
-pd cs sp
-cs sp np
-sp np vs
-np vs vm
-vs vm sp
-vm sp nc
-sp nc sp
-nc sp np
-sp np aq
-np aq vm
-aq vm cc
-vm cc rg
-cc rg pp
-rg pp pp
-pp pp vm
-pp vm sp
-vm sp da
-sp da nc
-da nc sp
-nc sp da
-sp da aq
-da aq nc
-aq nc vm
-nc vm di
-vm di nc
-di nc aq
-nc aq sp
-aq sp dp
-sp dp nc
-dp nc cc
-nc cc nc
-cc nc sp
-nc sp nc
-sp nc sp
-nc sp rg
-sp rg di
-rg di nc
-di nc pp
-nc pp vm
-pp vm sp
-vm sp da
-sp da nc
-da nc cc
-nc cc pp
-cc pp vm
-pp vm sp
-vm sp pp
-sp pp vm
-pp vm np
-vm np rg
-np rg sp
-rg sp dp
-sp dp nc
-dp nc vm
-nc vm cs
-vm cs da
-cs da nc
-da nc vm
-nc vm nc
-vm nc vm
-nc vm sp
-vm sp vm
-sp vm sp
-vm sp di
-sp di nc
-di nc cs
-nc cs vm
-cs vm rn
-vm rn vm
-rn vm rg
-vm rg sp
-rg sp nc
-sp nc pi
-nc pi sp
-pi sp cs
-sp cs vm
-cs vm di
-vm di nc
-di nc vm
-nc vm da
-vm da aq
-da aq nc
-aq nc pp
-nc pp vm
-pp vm aq
-vm aq da
-aq da nc
-da nc aq
-nc aq sp
-aq sp pp
-sp pp vs
-pp vs aq
-vs aq da
-aq da aq
-da aq nc
-aq nc aq
-nc aq cc
-aq cc aq
-cc aq cc
-aq cc aq
-cc aq nc
-aq nc sp
-nc sp nc
-sp nc da
-nc da nc
-da nc sp
-nc sp da
-sp da nc
-da nc cs
-nc cs vm
-cs vm pi
-vm pi dd
-pi dd nc
-dd nc aq
-nc aq pr
-aq pr vs
-pr vs vs
-vs vs nc
-vs nc sp
-nc sp da
-sp da nc
-da nc p
-nc p vm
-p vm sp
-vm sp da
-sp da nc
-da nc vm
-nc vm sp
-vm sp nc
-sp nc cs
-nc cs cs
-cs cs vm
-cs vm vm
-vm vm sp
-vm sp nc
-sp nc pr
-nc pr vm
-pr vm rg
-vm rg sp
-rg sp nc
-sp nc rg
-nc rg aq
-rg aq cc
-aq cc sp
-cc sp pp
-sp pp pp
-pp pp vm
-pp vm da
-vm da pr
-da pr vs
-pr vs vm
-vs vm cs
-vm cs sp
-cs sp dp
-sp dp nc
-dp nc pp
-nc pp vs
-pp vs sp
-vs sp nc
-sp nc cc
-nc cc sp
-cc sp nc
-sp nc vm
-nc vm rg
-vm rg dp
-rg dp nc
-dp nc da
-nc da pr
-da pr sp
-pr sp pr
-sp pr rn
-pr rn vm
-rn vm cc
-vm cc rn
-cc rn nc
-rn nc sp
-nc sp dp
-sp dp vm
-dp vm vs
-vm vs sp
-vs sp nc
-sp nc rg
-nc rg sp
-rg sp nc
-sp nc vm
-nc vm di
-vm di nc
-di nc cs
-nc cs cs
-cs cs vs
-cs vs rg
-vs rg nc
-rg nc sp
-nc sp pp
-sp pp vm
-pp vm cc
-vm cc vm
-cc vm cs
-vm cs vm
-cs vm cs
-vm cs sp
-cs sp nc
-sp nc vm
-nc vm sp
-vm sp dp
-sp dp nc
-dp nc aq
-nc aq rn
-aq rn vm
-rn vm cc
-vm cc vs
-cc vs cs
-vs cs pp
-cs pp vs
-pp vs sp
-vs sp rg
-sp rg vm
-rg vm sp
-vm sp dp
-sp dp aq
-dp aq nc
-aq nc cc
-nc cc vm
-cc vm rg
-vm rg cs
-rg cs sp
-cs sp nc
-sp nc pp
-nc pp vm
-pp vm rg
-vm rg cc
-rg cc cs
-cc cs sp
-cs sp rg
-sp rg vs
-rg vs vm
-vs vm sp
-vm sp dp
-sp dp nc
-dp nc rg
-nc rg vm
-rg vm vm
-vm vm vm
-vm vm da
-vm da nc
-da nc sp
-nc sp da
-sp da nc
-da nc w
-nc w rg
-w rg cs
-rg cs pp
-cs pp vm
-pp vm vm
-vm vm sp
-vm sp pr
-sp pr rg
-pr rg dp
-rg dp nc
-dp nc nc
-nc nc cc
-nc cc vm
-cc vm sp
-vm sp dp
-sp dp nc
-dp nc dd
-nc dd nc
-dd nc pr
-nc pr sp
-pr sp da
-sp da nc
-da nc nc
-nc nc cc
-nc cc nc
-cc nc va
-nc va vm
-va vm sp
-vm sp dp
-sp dp nc
-dp nc sp
-nc sp pp
-sp pp aq
-pp aq vm
-aq vm vm
-vm vm aq
-vm aq nc
-aq nc cc
-nc cc vs
-cc vs sp
-vs sp dd
-sp dd nc
-dd nc nc
-nc nc di
-nc di da
-di da nc
-da nc pr
-nc pr vm
-pr vm sp
-vm sp nc
-sp nc pr
-nc pr vm
-pr vm sp
-vm sp nc
-sp nc da
-nc da nc
-da nc vm
-nc vm cc
-vm cc sp
-cc sp dd
-sp dd nc
-dd nc dp
-nc dp nc
-dp nc nc
-nc nc sp
-nc sp vm
-sp vm sp
-vm sp pp
-sp pp i
-pp i aq
-i aq nc
-aq nc sp
-nc sp da
-sp da aq
-da aq nc
-aq nc sp
-nc sp dd
-sp dd nc
-dd nc sp
-nc sp pr
-sp pr pp
-pr pp vm
-pp vm cs
-vm cs nc
-cs nc sp
-nc sp vm
-sp vm vm
-vm vm sp
-vm sp da
-sp da nc
-da nc dp
-nc dp aq
-dp aq cc
-aq cc sp
-cc sp nc
-sp nc sp
-nc sp pp
-sp pp sp
-pp sp da
-sp da nc
-da nc ap
+cs-pp-nc
+pp-nc-sp
+nc-sp-vm
+sp-vm-dp
+vm-dp-nc
+dp-nc-cc
+nc-cc-sp
+cc-sp-vm
+sp-vm-da
+vm-da-nc
+da-nc-sp
+nc-sp-nc
+sp-nc-pp
+nc-pp-va
+pp-va-vm
+va-vm-vm
+vm-vm-cs
+vm-cs-sp
+cs-sp-nc
+sp-nc-vm
+nc-vm-vm
+vm-vm-pr
+vm-pr-sp
+pr-sp-aq
+sp-aq-nc
+aq-nc-vm
+nc-vm-va
+vm-va-vm
+va-vm-cc
+vm-cc-cs
+cc-cs-sp
+cs-sp-da
+sp-da-nc
+da-nc-vm
+nc-vm-vm
+vm-vm-sp
+vm-sp-rg
+sp-rg-rg
+rg-rg-rn
+rg-rn-vm
+rn-vm-sp
+vm-sp-nc
+sp-nc-va
+nc-va-vm
+va-vm-vm
+vm-vm-cs
+vm-cs-pp
+cs-pp-vm
+pp-vm-cc
+vm-cc-rg
+cc-rg-vm
+rg-vm-pp
+vm-pp-nc
+pp-nc-vm
+nc-vm-vm
+vm-vm-pp
+vm-pp-dp
+pp-dp-nc
+dp-nc-pp
+nc-pp-vm
+pp-vm-cs
+vm-cs-pp
+cs-pp-vm
+pp-vm-sp
+vm-sp-nc
+sp-nc-sp
+nc-sp-pr
+sp-pr-vm
+pr-vm-vm
+vm-vm-cc
+vm-cc-nc
+cc-nc-cs
+nc-cs-pp
+cs-pp-vm
+pp-vm-cc
+vm-cc-rg
+cc-rg-vm
+rg-vm-vm
+vm-vm-cs
+vm-cs-cs
+cs-cs-dp
+cs-dp-nc
+dp-nc-vm
+nc-vm-nc
+vm-nc-da
+nc-da-ap
+da-ap-pr
+ap-pr-rn
+pr-rn-vs
+rn-vs-rg
+vs-rg-sp
+rg-sp-dp
+sp-dp-nc
+dp-nc-vm
+nc-vm-pt
+vm-pt-vm
+pt-vm-cc
+vm-cc-nc
+cc-nc-sp
+nc-sp-nc
+sp-nc-sp
+nc-sp-dp
+sp-dp-nc
+dp-nc-va
+nc-va-vm
+va-vm-nc
+vm-nc-vm
+nc-vm-cs
+vm-cs-vm
+cs-vm-sp
+vm-sp-vm
+sp-vm-rg
+vm-rg-vm
+rg-vm-pr
+vm-pr-rg
+pr-rg-vm
+rg-vm-sp
+vm-sp-nc
+sp-nc-dp
+nc-dp-nc
+dp-nc-cs
+nc-cs-nc
+cs-nc-pp
+nc-pp-vs
+pp-vs-rg
+vs-rg-vm
+rg-vm-dp
+vm-dp-nc
+dp-nc-rn
+nc-rn-vm
+rn-vm-sp
+vm-sp-pt
+sp-pt-p
+pt-p-va
+p-va-vm
+va-vm-cs
+vm-cs-rn
+cs-rn-vs
+rn-vs-sp
+vs-sp-va
+sp-va-vs
+va-vs-pp
+vs-pp-vm
+pp-vm-sp
+vm-sp-cs
+sp-cs-rg
+cs-rg-sp
+rg-sp-pp
+sp-pp-vs
+pp-vs-vm
+vs-vm-pt
+vm-pt-vm
+pt-vm-di
+vm-di-nc
+di-nc-sp
+nc-sp-di
+sp-di-vm
+di-vm-dp
+vm-dp-nc
+dp-nc-va
+nc-va-vs
+va-vs-vm
+vs-vm-pr
+vm-pr-da
+pr-da-nc
+da-nc-cc
+nc-cc-da
+cc-da-nc
+da-nc-vm
+nc-vm-rg
+vm-rg-nc
+rg-nc-sp
+nc-sp-pp
+sp-pp-cc
+pp-cc-dp
+cc-dp-nc
+dp-nc-vm
+nc-vm-da
+vm-da-pr
+da-pr-sp
+pr-sp-pp
+sp-pp-vm
+pp-vm-vm
+vm-vm-rn
+vm-rn-pp
+rn-pp-vm
+pp-vm-rg
+vm-rg-sp
+rg-sp-pp
+sp-pp-sp
+pp-sp-dp
+sp-dp-nc
+dp-nc-rg
+nc-rg-pp
+rg-pp-vm
+pp-vm-nc
+vm-nc-sp
+nc-sp-dp
+sp-dp-nc
+dp-nc-da
+nc-da-nc
+da-nc-sp
+nc-sp-nc
+sp-nc-cc
+nc-cc-nc
+cc-nc-va
+nc-va-vm
+va-vm-sp
+vm-sp-rg
+sp-rg-rg
+rg-rg-aq
+rg-aq-pp
+aq-pp-vm
+pp-vm-cc
+vm-cc-vm
+cc-vm-vm
+vm-vm-di
+vm-di-nc
+di-nc-nc
+nc-nc-nc
+nc-nc-nc
+nc-nc-va
+nc-va-vm
+va-vm-rg
+vm-rg-sp
+rg-sp-vm
+sp-vm-vm
+vm-vm-nc
+vm-nc-vm
+nc-vm-nc
+vm-nc-sp
+nc-sp-dp
+sp-dp-nc
+dp-nc-cc
+nc-cc-da
+cc-da-pr
+da-pr-rg
+pr-rg-aq
+rg-aq-vm
+aq-vm-vs
+vm-vs-dd
+vs-dd-nc
+dd-nc-pr
+nc-pr-vm
+pr-vm-da
+vm-da-nc
+da-nc-cc
+nc-cc-da
+cc-da-nc
+da-nc-sp
+nc-sp-di
+sp-di-nc
+di-nc-vm
+nc-vm-vm
+vm-vm-sp
+vm-sp-nc
+sp-nc-pp
+nc-pp-nc
+pp-nc-cc
+nc-cc-nc
+cc-nc-cs
+nc-cs-rg
+cs-rg-vm
+rg-vm-sp
+vm-sp-nc
+sp-nc-cc
+nc-cc-sp
+cc-sp-rn
+sp-rn-nc
+rn-nc-rg
+nc-rg-sp
+rg-sp-vm
+sp-vm-cs
+vm-cs-rn
+cs-rn-vs
+rn-vs-vm
+vs-vm-di
+vm-di-nc
+di-nc-vm
+nc-vm-cc
+vm-cc-cs
+cc-cs-pd
+cs-pd-pp
+pd-pp-vs
+pp-vs-rg
+vs-rg-vm
+rg-vm-aq
+vm-aq-di
+aq-di-nc
+di-nc-p
+nc-p-vm
+p-vm-dp
+vm-dp-nc
+dp-nc-rg
+nc-rg-vm
+rg-vm-sp
+vm-sp-vm
+sp-vm-vm
+vm-vm-nc
+vm-nc-sp
+nc-sp-vm
+sp-vm-cs
+vm-cs-vm
+cs-vm-sp
+vm-sp-rg
+sp-rg-dp
+rg-dp-nc
+dp-nc-aq
+nc-aq-da
+aq-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-pt
+nc-pt-vm
+pt-vm-rg
+vm-rg-aq
+rg-aq-nc
+aq-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-i
+nc-i-nc
+i-nc-vm
+nc-vm-vm
+vm-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-dp
+sp-dp-nc
+dp-nc-pr
+nc-pr-sp
+pr-sp-nc
+sp-nc-vm
+nc-vm-vm
+vm-vm-nc
+vm-nc-pp
+nc-pp-aq
+pp-aq-vm
+aq-vm-sp
+vm-sp-nc
+sp-nc-vm
+nc-vm-di
+vm-di-nc
+di-nc-cs
+nc-cs-pi
+cs-pi-rn
+pi-rn-vm
+rn-vm-sp
+vm-sp-z
+sp-z-nc
+z-nc-rg
+nc-rg-aq
+rg-aq-np
+aq-np-nc
+np-nc-rn
+nc-rn-vm
+rn-vm-cc
+vm-cc-nc
+cc-nc-nc
+nc-nc-sp
+nc-sp-vm
+sp-vm-sp
+vm-sp-nc
+sp-nc-cs
+nc-cs-vm
+cs-vm-aq
+vm-aq-nc
+aq-nc-cc
+nc-cc-nc
+cc-nc-sp
+nc-sp-nc
+sp-nc-cc
+nc-cc-nc
+cc-nc-np
+nc-np-vm
+np-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-dp
+nc-dp-nc
+dp-nc-cc
+nc-cc-pr
+cc-pr-pp
+pr-pp-vm
+pp-vm-sp
+vm-sp-pp
+sp-pp-vm
+pp-vm-pp
+vm-pp-aq
+pp-aq-pp
+aq-pp-vm
+pp-vm-pp
+vm-pp-pp
+pp-pp-vm
+pp-vm-rg
+vm-rg-aq
+rg-aq-pr
+aq-pr-rg
+pr-rg-sp
+rg-sp-pp
+sp-pp-pp
+pp-pp-vm
+pp-vm-sp
+vm-sp-pd
+sp-pd-sp
+pd-sp-pd
+sp-pd-vm
+pd-vm-cc
+vm-cc-vm
+cc-vm-rg
+vm-rg-vm
+rg-vm-pr
+vm-pr-cc
+pr-cc-rn
+cc-rn-vm
+rn-vm-sp
+vm-sp-pp
+sp-pp-rg
+pp-rg-sp
+rg-sp-pp
+sp-pp-vm
+pp-vm-sp
+vm-sp-rg
+sp-rg-rg
+rg-rg-da
+rg-da-pr
+da-pr-rn
+pr-rn-vm
+rn-vm-vm
+vm-vm-vm
+vm-vm-rg
+vm-rg-da
+rg-da-nc
+da-nc-sp
+nc-sp-nc
+sp-nc-pp
+nc-pp-rn
+pp-rn-vm
+rn-vm-cc
+vm-cc-sp
+cc-sp-nc
+sp-nc-dp
+nc-dp-nc
+dp-nc-pp
+nc-pp-va
+pp-va-vm
+va-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-sp
+nc-sp-nc
+sp-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-aq
+nc-aq-pp
+aq-pp-vm
+pp-vm-rg
+vm-rg-vm
+rg-vm-vm
+vm-vm-pp
+vm-pp-nc
+pp-nc-sp
+nc-sp-pp
+sp-pp-vm
+pp-vm-sp
+vm-sp-pp
+sp-pp-vm
+pp-vm-da
+vm-da-nc
+da-nc-sp
+nc-sp-pp
+sp-pp-vm
+pp-vm-sp
+vm-sp-vm
+sp-vm-cc
+vm-cc-sp
+cc-sp-pp
+sp-pp-vm
+pp-vm-sp
+vm-sp-aq
+sp-aq-nc
+aq-nc-va
+nc-va-vm
+va-vm-sp
+vm-sp-nc
+sp-nc-pr
+nc-pr-sp
+pr-sp-nc
+sp-nc-rn
+nc-rn-pp
+rn-pp-vm
+pp-vm-cc
+vm-cc-cs
+cc-cs-sp
+cs-sp-nc
+sp-nc-sp
+nc-sp-vm
+sp-vm-di
+vm-di-nc
+di-nc-vm
+nc-vm-rg
+vm-rg-sp
+rg-sp-da
+sp-da-nc
+da-nc-vs
+nc-vs-vm
+vs-vm-cc
+vm-cc-pd
+cc-pd-vm
+pd-vm-cs
+vm-cs-sp
+cs-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-vm
+nc-vm-sp
+vm-sp-dp
+sp-dp-vm
+dp-vm-nc
+vm-nc-aq
+nc-aq-cc
+aq-cc-vm
+cc-vm-da
+vm-da-aq
+da-aq-cc
+aq-cc-da
+cc-da-aq
+da-aq-vm
+aq-vm-cc
+vm-cc-sp
+cc-sp-nc
+sp-nc-aq
+nc-aq-cc
+aq-cc-sp
+cc-sp-dp
+sp-dp-nc
+dp-nc-sp
+nc-sp-di
+sp-di-nc
+di-nc-da
+nc-da-aq
+da-aq-nc
+aq-nc-ap
+nc-ap-cc
+ap-cc-da
+cc-da-vm
+da-vm-nc
+vm-nc-sp
+nc-sp-dp
+sp-dp-nc
+dp-nc-sp
+nc-sp-dp
+sp-dp-ao
+dp-ao-nc
+ao-nc-cc
+nc-cc-sp
+cc-sp-dp
+sp-dp-nc
+dp-nc-dp
+nc-dp-nc
+dp-nc-sp
+nc-sp-pr
+sp-pr-rg
+pr-rg-rn
+rg-rn-vm
+rn-vm-da
+vm-da-aq
+da-aq-nc
+aq-nc-nc
+nc-nc-sp
+nc-sp-di
+sp-di-nc
+di-nc-pp
+nc-pp-vm
+pp-vm-vm
+vm-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-rn
+nc-rn-vm
+rn-vm-rg
+vm-rg-pr
+rg-pr-vm
+pr-vm-rg
+vm-rg-vm
+rg-vm-vm
+vm-vm-np
+vm-np-da
+np-da-pr
+da-pr-vm
+pr-vm-sp
+vm-sp-pp
+sp-pp-vm
+pp-vm-vm
+vm-vm-nc
+vm-nc-nc
+nc-nc-rg
+nc-rg-vm
+rg-vm-sp
+vm-sp-vm
+sp-vm-sp
+vm-sp-da
+sp-da-pr
+da-pr-va
+pr-va-vm
+va-vm-dp
+vm-dp-nc
+dp-nc-cc
+nc-cc-dp
+cc-dp-nc
+dp-nc-va
+nc-va-vm
+va-vm-sp
+vm-sp-dp
+sp-dp-vm
+dp-vm-nc
+vm-nc-cc
+nc-cc-vm
+cc-vm-cs
+vm-cs-vm
+cs-vm-sp
+vm-sp-pr
+sp-pr-vm
+pr-vm-rg
+vm-rg-vm
+rg-vm-aq
+vm-aq-sp
+aq-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-pr
+sp-pr-p
+pr-p-nc
+p-nc-pp
+nc-pp-aq
+pp-aq-nc
+aq-nc-rg
+nc-rg-rg
+rg-rg-vm
+rg-vm-sp
+vm-sp-nc
+sp-nc-ap
+nc-ap-cc
+ap-cc-sp
+cc-sp-dp
+sp-dp-nc
+dp-nc-sp
+nc-sp-di
+sp-di-dd
+di-dd-nc
+dd-nc-cs
+nc-cs-aq
+cs-aq-cc
+aq-cc-sp
+cc-sp-da
+sp-da-pr
+da-pr-vm
+pr-vm-rn
+vm-rn-vm
+rn-vm-vm
+vm-vm-cc
+vm-cc-sp
+cc-sp-pd
+sp-pd-rn
+pd-rn-vm
+rn-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-pr
+nc-pr-rn
+pr-rn-vs
+rn-vs-cs
+vs-cs-da
+cs-da-pi
+da-pi-cc
+pi-cc-sp
+cc-sp-dp
+sp-dp-nc
+dp-nc-sp
+nc-sp-dd
+sp-dd-nc
+dd-nc-aq
+nc-aq-cc
+aq-cc-aq
+cc-aq-vm
+aq-vm-nc
+vm-nc-aq
+nc-aq-cc
+aq-cc-vm
+cc-vm-cc
+vm-cc-vs
+cc-vs-sp
+vs-sp-dp
+sp-dp-nc
+dp-nc-vm
+nc-vm-pp
+vm-pp-vm
+pp-vm-sp
+vm-sp-pr
+sp-pr-da
+pr-da-nc
+da-nc-p
+nc-p-vm
+p-vm-np
+vm-np-sp
+np-sp-da
+sp-da-nc
+da-nc-rg
+nc-rg-sp
+rg-sp-da
+sp-da-ap
+da-ap-pr
+ap-pr-sp
+pr-sp-dd
+sp-dd-nc
+dd-nc-vm
+nc-vm-vm
+vm-vm-sp
+vm-sp-pp
+sp-pp-cs
+pp-cs-nc
+cs-nc-vm
+nc-vm-sp
+vm-sp-dd
+sp-dd-nc
+dd-nc-pr
+nc-pr-vm
+pr-vm-aq
+vm-aq-aq
+aq-aq-sp
+aq-sp-da
+sp-da-nc
+da-nc-pp
+nc-pp-vm
+pp-vm-dp
+vm-dp-nc
+dp-nc-vm
+nc-vm-cs
+vm-cs-pp
+cs-pp-vm
+pp-vm-p
+vm-p-vm
+p-vm-cc
+vm-cc-p
+cc-p-vm
+p-vm-sp
+vm-sp-nc
+sp-nc-cc
+nc-cc-rn
+cc-rn-vm
+rn-vm-aq
+vm-aq-da
+aq-da-nc
+da-nc-cs
+nc-cs-da
+cs-da-ap
+da-ap-vm
+ap-vm-vm
+vm-vm-vm
+vm-vm-sp
+vm-sp-vm
+sp-vm-nc
+vm-nc-rn
+nc-rn-vm
+rn-vm-nc
+vm-nc-nc
+nc-nc-ap
+nc-ap-cs
+ap-cs-pp
+cs-pp-sp
+pp-sp-pp
+sp-pp-vm
+pp-vm-sp
+vm-sp-dd
+sp-dd-nc
+dd-nc-nc
+nc-nc-cc
+nc-cc-rn
+cc-rn-pp
+rn-pp-vm
+pp-vm-vm
+vm-vm-cs
+vm-cs-vm
+cs-vm-sp
+vm-sp-da
+sp-da-pr
+da-pr-pp
+pr-pp-vm
+pp-vm-cc
+vm-cc-sp
+cc-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-pr
+sp-pr-vm
+pr-vm-sp
+vm-sp-vs
+sp-vs-aq
+vs-aq-sp
+aq-sp-pd
+sp-pd-rg
+pd-rg-vs
+rg-vs-di
+vs-di-nc
+di-nc-pr
+nc-pr-vs
+pr-vs-vm
+vs-vm-cs
+vm-cs-cs
+cs-cs-sp
+cs-sp-nc
+sp-nc-nc
+nc-nc-pp
+nc-pp-vm
+pp-vm-rg
+vm-rg-rg
+rg-rg-sp
+rg-sp-pp
+sp-pp-vm
+pp-vm-cc
+vm-cc-rg
+cc-rg-vm
+rg-vm-sp
+vm-sp-da
+sp-da-pr
+da-pr-vm
+pr-vm-aq
+vm-aq-sp
+aq-sp-dd
+sp-dd-nc
+dd-nc-dp
+nc-dp-nc
+dp-nc-vm
+nc-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-cc
+nc-cc-sp
+cc-sp-nc
+sp-nc-rn
+nc-rn-vm
+rn-vm-rg
+vm-rg-pt
+rg-pt-vm
+pt-vm-sp
+vm-sp-aq
+sp-aq-nc
+aq-nc-rg
+nc-rg-sp
+rg-sp-pp
+sp-pp-pp
+pp-pp-vm
+pp-vm-cc
+vm-cc-vm
+cc-vm-sp
+vm-sp-dd
+sp-dd-nc
+dd-nc-vm
+nc-vm-nc
+vm-nc-cc
+nc-cc-nc
+cc-nc-pr
+nc-pr-rg
+pr-rg-p
+rg-p-vm
+p-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-i
+nc-i-aq
+i-aq-nc
+aq-nc-sp
+nc-sp-dp
+sp-dp-rg
+dp-rg-vm
+rg-vm-aq
+vm-aq-cc
+aq-cc-aq
+cc-aq-cs
+aq-cs-np
+cs-np-vm
+np-vm-np
+vm-np-vm
+np-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-ap
+nc-ap-cc
+ap-cc-sp
+cc-sp-pp
+sp-pp-sp
+pp-sp-dp
+sp-dp-nc
+dp-nc-vm
+nc-vm-pt
+vm-pt-pp
+pt-pp-vm
+pp-vm-cs
+vm-cs-sp
+cs-sp-da
+sp-da-vm
+da-vm-nc
+vm-nc-sp
+nc-sp-rg
+sp-rg-rg
+rg-rg-sp
+rg-sp-pp
+sp-pp-pp
+pp-pp-nc
+pp-nc-pr
+nc-pr-pp
+pr-pp-nc
+pp-nc-sp
+nc-sp-vs
+sp-vs-sp
+vs-sp-di
+sp-di-nc
+di-nc-sp
+nc-sp-rg
+sp-rg-aq
+rg-aq-nc
+aq-nc-vm
+nc-vm-cs
+vm-cs-sp
+cs-sp-di
+sp-di-nc
+di-nc-aq
+nc-aq-pp
+aq-pp-nc
+pp-nc-di
+nc-di-da
+di-da-nc
+da-nc-pr
+nc-pr-sp
+pr-sp-nc
+sp-nc-pp
+nc-pp-vm
+pp-vm-nc
+vm-nc-aq
+nc-aq-da
+aq-da-nc
+da-nc-pr
+nc-pr-pp
+pr-pp-nc
+pp-nc-cs
+nc-cs-rn
+cs-rn-vm
+rn-vm-cs
+vm-cs-pp
+cs-pp-nc
+pp-nc-sp
+nc-sp-di
+sp-di-nc
+di-nc-cs
+nc-cs-nc
+cs-nc-nc
+nc-nc-vm
+nc-vm-sp
+vm-sp-nc
+sp-nc-aq
+nc-aq-aq
+aq-aq-nc
+aq-nc-pr
+nc-pr-sp
+pr-sp-da
+sp-da-aq
+da-aq-nc
+aq-nc-aq
+nc-aq-vm
+aq-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-aq
+sp-aq-nc
+aq-nc-vm
+nc-vm-cc
+vm-cc-sp
+cc-sp-nc
+sp-nc-sp
+nc-sp-nc
+sp-nc-vm
+nc-vm-nc
+vm-nc-va
+nc-va-vm
+va-vm-vm
+vm-vm-cc
+vm-cc-vm
+cc-vm-da
+vm-da-nc
+da-nc-aq
+nc-aq-nc
+aq-nc-di
+nc-di-sp
+di-sp-di
+sp-di-vm
+di-vm-vm
+vm-vm-da
+vm-da-nc
+da-nc-cc
+nc-cc-da
+cc-da-nc
+da-nc-vm
+nc-vm-di
+vm-di-nc
+di-nc-da
+nc-da-nc
+da-nc-vm
+nc-vm-dp
+vm-dp-aq
+dp-aq-nc
+aq-nc-sp
+nc-sp-nc
+sp-nc-cc
+nc-cc-rn
+cc-rn-pp
+rn-pp-vm
+pp-vm-rg
+vm-rg-cs
+rg-cs-vm
+cs-vm-cs
+vm-cs-cc
+cs-cc-rn
+cc-rn-vm
+rn-vm-sp
+vm-sp-nc
+sp-nc-nc
+nc-nc-cc
+nc-cc-vm
+cc-vm-sp
+vm-sp-nc
+sp-nc-rg
+nc-rg-vm
+rg-vm-vm
+vm-vm-rg
+vm-rg-rg
+rg-rg-nc
+rg-nc-cs
+nc-cs-sp
+cs-sp-vm
+sp-vm-dd
+vm-dd-nc
+dd-nc-aq
+nc-aq-aq
+aq-aq-aq
+aq-aq-aq
+aq-aq-cc
+aq-cc-vm
+cc-vm-sp
+vm-sp-di
+sp-di-nc
+di-nc-rg
+nc-rg-aq
+rg-aq-pr
+aq-pr-vs
+pr-vs-nc
+vs-nc-sp
+nc-sp-vm
+sp-vm-pp
+vm-pp-da
+pp-da-pr
+da-pr-rn
+pr-rn-vm
+rn-vm-rn
+vm-rn-pp
+rn-pp-vm
+pp-vm-nc
+vm-nc-pr
+nc-pr-pp
+pr-pp-vm
+pp-vm-cc
+vm-cc-rg
+cc-rg-vm
+rg-vm-cc
+vm-cc-rg
+cc-rg-aq
+rg-aq-sp
+aq-sp-di
+sp-di-nc
+di-nc-pr
+nc-pr-rg
+pr-rg-vm
+rg-vm-vm
+vm-vm-da
+vm-da-nc
+da-nc-sp
+nc-sp-pp
+sp-pp-pr
+pp-pr-pp
+pr-pp-vm
+pp-vm-pt
+vm-pt-pp
+pt-pp-vm
+pp-vm-sp
+vm-sp-vm
+sp-vm-vm
+vm-vm-da
+vm-da-nc
+da-nc-sp
+nc-sp-pd
+sp-pd-cs
+pd-cs-sp
+cs-sp-da
+sp-da-nc
+da-nc-vm
+nc-vm-vm
+vm-vm-nc
+vm-nc-cc
+nc-cc-nc
+cc-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-va
+nc-va-vm
+va-vm-cc
+vm-cc-da
+cc-da-sp
+da-sp-da
+sp-da-pr
+da-pr-dp
+pr-dp-nc
+dp-nc-cc
+nc-cc-dp
+cc-dp-nc
+dp-nc-vm
+nc-vm-sp
+vm-sp-dd
+sp-dd-nc
+dd-nc-vm
+nc-vm-rg
+vm-rg-sp
+rg-sp-da
+sp-da-nc
+da-nc-vm
+nc-vm-sp
+vm-sp-np
+sp-np-rg
+np-rg-da
+rg-da-nc
+da-nc-pp
+nc-pp-vm
+pp-vm-cc
+vm-cc-sp
+cc-sp-aq
+sp-aq-nc
+aq-nc-vm
+nc-vm-p
+vm-p-vm
+p-vm-sp
+vm-sp-aq
+sp-aq-nc
+aq-nc-vm
+nc-vm-cs
+vm-cs-p
+cs-p-vm
+p-vm-da
+vm-da-nc
+da-nc-pr
+nc-pr-sp
+pr-sp-da
+sp-da-nc
+da-nc-vm
+nc-vm-sp
+vm-sp-aq
+sp-aq-nc
+aq-nc-p
+nc-p-vm
+p-vm-da
+vm-da-aq
+da-aq-nc
+aq-nc-pr
+nc-pr-rg
+pr-rg-vm
+rg-vm-vm
+vm-vm-da
+vm-da-aq
+da-aq-nc
+aq-nc-sp
+nc-sp-nc
+sp-nc-p
+nc-p-vm
+p-vm-cc
+vm-cc-sp
+cc-sp-vm
+sp-vm-nc
+vm-nc-p
+nc-p-vm
+p-vm-pd
+vm-pd-pr
+pd-pr-vs
+pr-vs-da
+vs-da-nc
+da-nc-sp
+nc-sp-dd
+sp-dd-nc
+dd-nc-sp
+nc-sp-vm
+sp-vm-vm
+vm-vm-vm
+vm-vm-da
+vm-da-nc
+da-nc-pr
+nc-pr-sp
+pr-sp-nc
+sp-nc-vm
+nc-vm-i
+vm-i-aq
+i-aq-nc
+aq-nc-i
+nc-i-aq
+i-aq-nc
+aq-nc-cs
+nc-cs-sp
+cs-sp-nc
+sp-nc-vm
+nc-vm-di
+vm-di-nc
+di-nc-da
+nc-da-nc
+da-nc-cc
+nc-cc-da
+cc-da-nc
+da-nc-sp
+nc-sp-pr
+sp-pr-vm
+pr-vm-cs
+vm-cs-da
+cs-da-aq
+da-aq-nc
+aq-nc-pr
+nc-pr-da
+pr-da-aq
+da-aq-nc
+aq-nc-pp
+nc-pp-vm
+pp-vm-sp
+vm-sp-nc
+sp-nc-vm
+nc-vm-di
+vm-di-nc
+di-nc-sp
+nc-sp-da
+sp-da-pr
+da-pr-vm
+pr-vm-vm
+vm-vm-cs
+vm-cs-vm
+cs-vm-sp
+vm-sp-vm
+sp-vm-da
+vm-da-nc
+da-nc-pr
+nc-pr-vm
+pr-vm-cc
+vm-cc-dd
+cc-dd-aq
+dd-aq-nc
+aq-nc-rn
+nc-rn-pp
+rn-pp-vm
+pp-vm-cs
+vm-cs-vm
+cs-vm-da
+vm-da-nc
+da-nc-pr
+nc-pr-vm
+pr-vm-da
+vm-da-pr
+da-pr-pp
+pr-pp-vm
+pp-vm-vm
+vm-vm-vm
+vm-vm-vm
+vm-vm-cc
+vm-cc-vm
+cc-vm-da
+vm-da-nc
+da-nc-cc
+nc-cc-vm
+cc-vm-da
+vm-da-nc
+da-nc-rg
+nc-rg-sp
+rg-sp-dp
+sp-dp-nc
+dp-nc-cc
+nc-cc-aq
+cc-aq-nc
+aq-nc-pr
+nc-pr-sp
+pr-sp-dp
+sp-dp-nc
+dp-nc-pp
+nc-pp-pp
+pp-pp-vm
+pp-vm-pp
+vm-pp-vm
+pp-vm-rg
+vm-rg-dd
+rg-dd-aq
+dd-aq-nc
+aq-nc-cc
+nc-cc-aq
+cc-aq-cc
+aq-cc-vm
+cc-vm-di
+vm-di-nc
+di-nc-rg
+nc-rg-pr
+rg-pr-rg
+pr-rg-vm
+rg-vm-pp
+vm-pp-vm
+pp-vm-vm
+vm-vm-dp
+vm-dp-nc
+dp-nc-cc
+nc-cc-rg
+cc-rg-da
+rg-da-ap
+da-ap-cs
+ap-cs-nc
+cs-nc-cc
+nc-cc-nc
+cc-nc-vm
+nc-vm-rg
+vm-rg-cs
+rg-cs-da
+cs-da-nc
+da-nc-vm
+nc-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-cc
+nc-cc-sp
+cc-sp-da
+sp-da-di
+da-di-nc
+di-nc-cc
+nc-cc-aq
+cc-aq-da
+aq-da-nc
+da-nc-vm
+nc-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-cs
+nc-cs-vm
+cs-vm-sp
+vm-sp-vm
+sp-vm-dp
+vm-dp-nc
+dp-nc-da
+nc-da-aq
+da-aq-nc
+aq-nc-cc
+nc-cc-nc
+cc-nc-aq
+nc-aq-cs
+aq-cs-sp
+cs-sp-nc
+sp-nc-sp
+nc-sp-rg
+sp-rg-nc
+rg-nc-cs
+nc-cs-da
+cs-da-ap
+da-ap-vm
+ap-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-pt
+sp-pt-rn
+pt-rn-vm
+rn-vm-dp
+vm-dp-aq
+dp-aq-nc
+aq-nc-sp
+nc-sp-nc
+sp-nc-cc
+nc-cc-nc
+cc-nc-vm
+nc-vm-di
+vm-di-nc
+di-nc-pp
+nc-pp-vm
+pp-vm-sp
+vm-sp-rg
+sp-rg-nc
+rg-nc-nc
+nc-nc-vs
+nc-vs-vm
+vs-vm-da
+vm-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-pr
+da-pr-p
+pr-p-vm
+p-vm-sp
+vm-sp-vm
+sp-vm-cs
+vm-cs-da
+cs-da-sp
+da-sp-da
+sp-da-pr
+da-pr-vm
+pr-vm-cc
+vm-cc-vm
+cc-vm-di
+vm-di-nc
+di-nc-rn
+nc-rn-da
+rn-da-aq
+da-aq-nc
+aq-nc-aq
+nc-aq-sp
+aq-sp-sp
+sp-sp-nc
+sp-nc-sp
+nc-sp-da
+sp-da-vm
+da-vm-nc
+vm-nc-cc
+nc-cc-sp
+cc-sp-da
+sp-da-vm
+da-vm-nc
+vm-nc-sp
+nc-sp-vm
+sp-vm-da
+vm-da-nc
+da-nc-cc
+nc-cc-nc
+cc-nc-aq
+nc-aq-rn
+aq-rn-da
+rn-da-nc
+da-nc-aq
+nc-aq-cc
+aq-cc-dd
+cc-dd-aq
+dd-aq-nc
+aq-nc-vm
+nc-vm-sp
+vm-sp-pd
+sp-pd-cs
+pd-cs-sp
+cs-sp-np
+sp-np-vs
+np-vs-vm
+vs-vm-sp
+vm-sp-nc
+sp-nc-sp
+nc-sp-np
+sp-np-aq
+np-aq-vm
+aq-vm-cc
+vm-cc-rg
+cc-rg-pp
+rg-pp-pp
+pp-pp-vm
+pp-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-aq
+da-aq-nc
+aq-nc-vm
+nc-vm-di
+vm-di-nc
+di-nc-aq
+nc-aq-sp
+aq-sp-dp
+sp-dp-nc
+dp-nc-cc
+nc-cc-nc
+cc-nc-sp
+nc-sp-nc
+sp-nc-sp
+nc-sp-rg
+sp-rg-di
+rg-di-nc
+di-nc-pp
+nc-pp-vm
+pp-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-cc
+nc-cc-pp
+cc-pp-vm
+pp-vm-sp
+vm-sp-pp
+sp-pp-vm
+pp-vm-np
+vm-np-rg
+np-rg-sp
+rg-sp-dp
+sp-dp-nc
+dp-nc-vm
+nc-vm-cs
+vm-cs-da
+cs-da-nc
+da-nc-vm
+nc-vm-nc
+vm-nc-vm
+nc-vm-sp
+vm-sp-vm
+sp-vm-sp
+vm-sp-di
+sp-di-nc
+di-nc-cs
+nc-cs-vm
+cs-vm-rn
+vm-rn-vm
+rn-vm-rg
+vm-rg-sp
+rg-sp-nc
+sp-nc-pi
+nc-pi-sp
+pi-sp-cs
+sp-cs-vm
+cs-vm-di
+vm-di-nc
+di-nc-vm
+nc-vm-da
+vm-da-aq
+da-aq-nc
+aq-nc-pp
+nc-pp-vm
+pp-vm-aq
+vm-aq-da
+aq-da-nc
+da-nc-aq
+nc-aq-sp
+aq-sp-pp
+sp-pp-vs
+pp-vs-aq
+vs-aq-da
+aq-da-aq
+da-aq-nc
+aq-nc-aq
+nc-aq-cc
+aq-cc-aq
+cc-aq-cc
+aq-cc-aq
+cc-aq-nc
+aq-nc-sp
+nc-sp-nc
+sp-nc-da
+nc-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-cs
+nc-cs-vm
+cs-vm-pi
+vm-pi-dd
+pi-dd-nc
+dd-nc-aq
+nc-aq-pr
+aq-pr-vs
+pr-vs-vs
+vs-vs-nc
+vs-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-p
+nc-p-vm
+p-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-vm
+nc-vm-sp
+vm-sp-nc
+sp-nc-cs
+nc-cs-cs
+cs-cs-vm
+cs-vm-vm
+vm-vm-sp
+vm-sp-nc
+sp-nc-pr
+nc-pr-vm
+pr-vm-rg
+vm-rg-sp
+rg-sp-nc
+sp-nc-rg
+nc-rg-aq
+rg-aq-cc
+aq-cc-sp
+cc-sp-pp
+sp-pp-pp
+pp-pp-vm
+pp-vm-da
+vm-da-pr
+da-pr-vs
+pr-vs-vm
+vs-vm-cs
+vm-cs-sp
+cs-sp-dp
+sp-dp-nc
+dp-nc-pp
+nc-pp-vs
+pp-vs-sp
+vs-sp-nc
+sp-nc-cc
+nc-cc-sp
+cc-sp-nc
+sp-nc-vm
+nc-vm-rg
+vm-rg-dp
+rg-dp-nc
+dp-nc-da
+nc-da-pr
+da-pr-sp
+pr-sp-pr
+sp-pr-rn
+pr-rn-vm
+rn-vm-cc
+vm-cc-rn
+cc-rn-nc
+rn-nc-sp
+nc-sp-dp
+sp-dp-vm
+dp-vm-vs
+vm-vs-sp
+vs-sp-nc
+sp-nc-rg
+nc-rg-sp
+rg-sp-nc
+sp-nc-vm
+nc-vm-di
+vm-di-nc
+di-nc-cs
+nc-cs-cs
+cs-cs-vs
+cs-vs-rg
+vs-rg-nc
+rg-nc-sp
+nc-sp-pp
+sp-pp-vm
+pp-vm-cc
+vm-cc-vm
+cc-vm-cs
+vm-cs-vm
+cs-vm-cs
+vm-cs-sp
+cs-sp-nc
+sp-nc-vm
+nc-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-aq
+nc-aq-rn
+aq-rn-vm
+rn-vm-cc
+vm-cc-vs
+cc-vs-cs
+vs-cs-pp
+cs-pp-vs
+pp-vs-sp
+vs-sp-rg
+sp-rg-vm
+rg-vm-sp
+vm-sp-dp
+sp-dp-aq
+dp-aq-nc
+aq-nc-cc
+nc-cc-vm
+cc-vm-rg
+vm-rg-cs
+rg-cs-sp
+cs-sp-nc
+sp-nc-pp
+nc-pp-vm
+pp-vm-rg
+vm-rg-cc
+rg-cc-cs
+cc-cs-sp
+cs-sp-rg
+sp-rg-vs
+rg-vs-vm
+vs-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-rg
+nc-rg-vm
+rg-vm-vm
+vm-vm-vm
+vm-vm-da
+vm-da-nc
+da-nc-sp
+nc-sp-da
+sp-da-nc
+da-nc-w
+nc-w-rg
+w-rg-cs
+rg-cs-pp
+cs-pp-vm
+pp-vm-vm
+vm-vm-sp
+vm-sp-pr
+sp-pr-rg
+pr-rg-dp
+rg-dp-nc
+dp-nc-nc
+nc-nc-cc
+nc-cc-vm
+cc-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-dd
+nc-dd-nc
+dd-nc-pr
+nc-pr-sp
+pr-sp-da
+sp-da-nc
+da-nc-nc
+nc-nc-cc
+nc-cc-nc
+cc-nc-va
+nc-va-vm
+va-vm-sp
+vm-sp-dp
+sp-dp-nc
+dp-nc-sp
+nc-sp-pp
+sp-pp-aq
+pp-aq-vm
+aq-vm-vm
+vm-vm-aq
+vm-aq-nc
+aq-nc-cc
+nc-cc-vs
+cc-vs-sp
+vs-sp-dd
+sp-dd-nc
+dd-nc-nc
+nc-nc-di
+nc-di-da
+di-da-nc
+da-nc-pr
+nc-pr-vm
+pr-vm-sp
+vm-sp-nc
+sp-nc-pr
+nc-pr-vm
+pr-vm-sp
+vm-sp-nc
+sp-nc-da
+nc-da-nc
+da-nc-vm
+nc-vm-cc
+vm-cc-sp
+cc-sp-dd
+sp-dd-nc
+dd-nc-dp
+nc-dp-nc
+dp-nc-nc
+nc-nc-sp
+nc-sp-vm
+sp-vm-sp
+vm-sp-pp
+sp-pp-i
+pp-i-aq
+i-aq-nc
+aq-nc-sp
+nc-sp-da
+sp-da-aq
+da-aq-nc
+aq-nc-sp
+nc-sp-dd
+sp-dd-nc
+dd-nc-sp
+nc-sp-pr
+sp-pr-pp
+pr-pp-vm
+pp-vm-cs
+vm-cs-nc
+cs-nc-sp
+nc-sp-vm
+sp-vm-vm
+vm-vm-sp
+vm-sp-da
+sp-da-nc
+da-nc-dp
+nc-dp-aq
+dp-aq-cc
+aq-cc-sp
+cc-sp-nc
+sp-nc-sp
+nc-sp-pp
+sp-pp-sp
+pp-sp-da
+sp-da-nc
+da-nc-ap
